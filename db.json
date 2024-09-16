@@ -1,0 +1,180 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "year": 2010,
+      "genre": ["Action", "Sci-Fi", "Thriller"],
+      "director": "Christopher Nolan",
+      "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+      "rating": 8.8,
+      "duration": 148,
+      "language": "English",
+      "synopsis": "A skilled thief is given a chance at redemption if he can successfully perform inception: planting an idea into the target's subconscious.",
+      "poster": "https://www.movieposters.com/cdn/shop/files/inception.mpw.123395_9e0000d1-bc7f-400a-b488-15fa9e60a10c_480x.progressive.jpg?v=1708527589",
+      "trailer": "https://www.youtube.com/embed/YoHD9XEInc0",
+      "releaseDate": "2010-07-16",
+      "reviews": [
+        {
+          "user": "JohnDoe123",
+          "comment": "Amazing movie with a mind-blowing concept!",
+          "rating": 9
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "The Matrix",
+      "year": 1999,
+      "genre": ["Action", "Sci-Fi"],
+      "director": "The Wachowskis",
+      "cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+      "rating": 8.7,
+      "duration": 136,
+      "language": "English",
+      "synopsis": "A computer hacker learns about the true nature of his reality and his role in the war against its controllers.",
+      "poster": "https://www.movieposters.com/cdn/shop/files/Matrix.mpw.102176_bb2f6cc5-4a16-4512-881b-f855ead3c8ec_480x.progressive.jpg?v=1708703624",
+      "trailer": "https://www.youtube.com/embed/vKQi3bBA1y8",
+      "releaseDate": "1999-03-31",
+      "reviews": [
+        {
+          "user": "NeoFan789",
+          "comment": "A game-changer in the sci-fi genre!",
+          "rating": 10
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "genre": ["Action", "Crime", "Drama"],
+      "director": "Christopher Nolan",
+      "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+      "rating": 9.0,
+      "duration": 152,
+      "language": "English",
+      "synopsis": "Batman faces the Joker, a criminal mastermind intent on causing chaos in Gotham City.",
+      "poster": "https://www.movieposters.com/cdn/shop/files/darkknight.building.24x36_20e90057-f673-4cc3-9ce7-7b0d3eeb7d83_480x.progressive.jpg?v=1707491191",
+      "trailer": "https://www.youtube.com/embed/EXeTwQWrcwY",
+      "releaseDate": "2008-07-18",
+      "reviews": [
+        {
+          "user": "GothamFan",
+          "comment": "One of the best superhero movies ever made!",
+          "rating": 10
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Interstellar",
+      "year": 2014,
+      "genre": ["Adventure", "Drama", "Sci-Fi"],
+      "director": "Christopher Nolan",
+      "cast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+      "rating": 8.6,
+      "duration": 169,
+      "language": "English",
+      "synopsis": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "poster": "https://www.movieposters.com/cdn/shop/files/interstellar-139400_480x.progressive.jpg?v=1708527834",
+      "trailer": "https://www.youtube.com/embed/zSWdZVtXT7E",
+      "releaseDate": "2014-11-07",
+      "reviews": [
+        {
+          "user": "SpaceLover",
+          "comment": "An epic sci-fi journey with stunning visuals!",
+          "rating": 9
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Avatar",
+      "year": 2009,
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "director": "James Cameron",
+      "cast": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver"],
+      "rating": 7.8,
+      "duration": 162,
+      "language": "English",
+      "synopsis": "A paraplegic Marine is sent to the moon Pandora on a unique mission but becomes torn between following orders and protecting an alien civilization.",
+      "poster": "https://www.movieposters.com/cdn/shop/files/avatar.adv.24x36_480x.progressive.jpg?v=1707410703",
+      "trailer": "https://www.youtube.com/embed/5PSNL1qE6VY",
+      "releaseDate": "2009-12-18",
+      "reviews": [
+        {
+          "user": "PandoraFan",
+          "comment": "A visual masterpiece with a great story!",
+          "rating": 8
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Titanic",
+      "year": 1997,
+      "genre": ["Drama", "Romance"],
+      "director": "James Cameron",
+      "cast": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"],
+      "rating": 7.9,
+      "duration": 195,
+      "language": "English",
+      "synopsis": "A young couple from different social backgrounds fall in love aboard the ill-fated RMS Titanic.",
+      "poster": "https://www.movieposters.com/cdn/shop/files/Titanic.mpw.102378_480x.progressive.jpg?v=1709331723",
+      "trailer": "https://www.youtube.com/embed/kVrqfYjkTdQ",
+      "releaseDate": "1997-12-19",
+      "reviews": [
+        {
+          "user": "LoveStoryFan",
+          "comment": "An emotional and unforgettable love story!",
+          "rating": 9
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Gladiator",
+      "year": 2000,
+      "genre": ["Action", "Adventure", "Drama"],
+      "director": "Ridley Scott",
+      "cast": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"],
+      "rating": 8.5,
+      "duration": 155,
+      "language": "English",
+      "synopsis": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+      "poster": "https://www.movieposters.com/cdn/shop/files/Gladiator.mpw.102813_480x.progressive.jpg?v=1707500493",
+      "trailer": "https://www.youtube.com/embed/owK1qxDselE",
+      "releaseDate": "2000-05-05",
+      "reviews": [
+        {
+          "user": "RomanFan",
+          "comment": "An epic and gripping historical drama!",
+          "rating": 10
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "genre": ["Drama"],
+      "director": "Frank Darabont",
+      "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+      "rating": 9.3,
+      "duration": 142,
+      "language": "English",
+      "synopsis": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "poster": "https://www.movieposters.com/cdn/shop/files/shawshank_eb84716b-efa9-44dc-a19d-c17924a3f7df_480x.progressive.jpg?v=1709821984",
+      "trailer": "https://www.youtube.com/embed/6hB3S9bIaco",
+      "releaseDate": "1994-09-23",
+      "reviews": [
+        {
+          "user": "HopeFan",
+          "comment": "A powerful story of hope and resilience!",
+          "rating": 10
+        }
+      ]
+    }
+  ]
+}
